@@ -51,7 +51,7 @@ The **Gold Layer** served as the foundation for analysis, enabling: ([gold layer
 
 
 
-## Executive Summary
+## Findings
 
 Revenue reached **$29.35M across the three full years (2011–2013)**, with performance showing significant volatility. After declining from **$7.08M in 2011 to $5.84M in 2012**, revenue surged to **$16.34M in 2013**, a **180% increase**.
 
