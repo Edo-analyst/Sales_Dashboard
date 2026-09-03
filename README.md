@@ -51,3 +51,14 @@ The **Gold Layer** served as the foundation for analysis, enabling: ([gold layer
 
 
 
+## Executive Summary
+
+Revenue reached **$29.35M across the three full years (2011–2013)**, with performance showing significant volatility. After declining from **$7.08M in 2011 to $5.84M in 2012**, revenue surged to **$16.34M in 2013**, a **180% increase**.
+
+The business remains highly concentrated, with **Bikes contributing 96.5% of total revenue**, creating reliance on a single category.
+
+The strongest opportunity for sustainable growth lies in the customer base: **VIP customers represent just 8.9% of customers but generate 36.7% of revenue**, spending approximately **9x more than New customers**.
+
+**Strategic priority:** Strengthen VIP retention and increase customer lifetime value to build a more resilient growth engine, while reducing dependence on continued bike-category momentum.
+
+
